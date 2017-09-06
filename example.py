@@ -1,7 +1,7 @@
 from keycodes import *
 
 
-# Shifting the Y-H-N column to the left to make room for the heavy hitters:
+# Shifting the Y-H-N column to the right to make room for the heavy hitters:
 #     Escape-Delete-Enter
 # in the middle row (AKA "middle out")
 rules = {
