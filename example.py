@@ -37,6 +37,7 @@ rules = {
     key_shift_right: key_slash_question,
     
     # '=' column
+    key_backslash_pipe: key_right_bracket,
     key_right_bracket: key_left_bracket,
     key_return: key_quote_doublequote,
     
