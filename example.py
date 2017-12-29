@@ -43,7 +43,7 @@ rules = {
     
     # Miscellaneous
     key_backspace: key_backslash_pipe,  # have to put the backslash somewhere
-    key_command_right: key_shift_right,  # And the shift key as well
+    #key_command_right: key_shift_right,  # And the shift key as well
     key_control_right: key_shift_right,
 }
 
